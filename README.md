@@ -1,1 +1,1 @@
-# LAMBDA4
+# LAMBDA4[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6e9e544f69704b36a7bfdc052ffef24d)](https://www.codacy.com/app/ramankatti-shilpa/LAMBDA4?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ramankatti-shilpa/LAMBDA4&amp;utm_campaign=Badge_Grade)
